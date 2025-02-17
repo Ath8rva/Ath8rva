@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Atharva!<br><br>🚀 AI & Data Enthusiast | 🧠 MSc in Analytics | 💡 Passionate about AI, Machine Learning, and Data Science<br><br>🔹 Building projects in AI, NLP, and Image Synthesis<br>🔹 Exploring Deep Learning, Business Intelligence, and Predictive Analytics<br>🔹 Creating insightful content on data-driven storytelling<br><br>📌 Current Projects:<br>🔹 Image Synthesis – Generating AI-driven visuals<br>🔹 Sentiment Analysis – NLP-based sentiment classification<br><br>📫 Let's Connect!<br>🔗 GitHub: Ath8rva<br>💼 LinkedIn: www.linkedin.com/in/ath8rva
+👋 Hi, I'm Atharva!<br><br>🚀 AI & Data Enthusiast | 🧠 MSc in Analytics | 💡 Passionate about AI, Machine Learning, and Data Science<br><br>🔹 Building projects in AI, NLP, and Image Synthesis<br>🔹 Exploring Deep Learning, Business Intelligence, and Predictive Analytics<br>🔹 Creating insightful content on data-driven storytelling<br><br>📌 Current Projects:<br>🔹 Image Synthesis – Generating AI-driven visuals<br>🔹 Sentiment Analysis – NLP-based sentiment classification<br><br>📫 Let's Connect!<br>🔗 GitHub: [Ath8rva](https://github.com/Ath8rva)<br>💼 LinkedIn: www.linkedin.com/in/ath8rva
 
 
 ## 🌐 Socials:
