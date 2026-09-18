@@ -1,6 +1,6 @@
 # Atharva R.
 
-AI tinkerer, Mumbai.
+AI tinkerer, Mumbai. The resume is at [atharva.tv](https://atharva.tv).
 
 I build small systems that do a whole job on their own: read the documents, check them against the rules, and write the report so a person does not have to. Most of it runs on hardware I can point at, with models I can name.
 
@@ -20,7 +20,7 @@ The rest is coursework and experiments, kept as they were.
 
 ## Elsewhere
 
-The resume lives at [atharva.tv](https://atharva.tv), with a few things hidden in it for anyone who likes to look closely.
+[atharva.tv](https://atharva.tv) has a few things hidden in it for anyone who likes to look closely.
 
 [LinkedIn](https://www.linkedin.com/in/ath8rva/), or mail at atharvarajale@gmail.com.
 
