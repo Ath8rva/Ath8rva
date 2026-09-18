@@ -23,14 +23,3 @@ The rest is coursework and experiments, kept as they were.
 [atharva.tv](https://atharva.tv) has a few things hidden in it for anyone who likes to look closely.
 
 [LinkedIn](https://www.linkedin.com/in/ath8rva/), or mail at atharvarajale@gmail.com.
-
-```
-           ██
-          ████
-         ██████
-        ████████
-      ██      ██
-     ████    ████
-    ██████  ██████
-   ████████████████
-```
