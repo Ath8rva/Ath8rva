@@ -25,6 +25,12 @@ The rest is coursework and experiments, kept as they were.
 [LinkedIn](https://www.linkedin.com/in/ath8rva/), or mail at atharvarajale@gmail.com.
 
 ```
-  ▲
- ▲ ▲
+           ██
+          ████
+         ██████
+        ████████
+      ██      ██
+     ████    ████
+    ██████  ██████
+   ████████████████
 ```
